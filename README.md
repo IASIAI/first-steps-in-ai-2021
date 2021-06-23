@@ -13,6 +13,8 @@ On 16th of June, we've hosted the second edition of **First steps in AI**, an ev
 
 [Read more ➝](https://iasi.ai)
 
+___
+
 #### Media appearances
 
 * [Eveniment dedicat elevilor şi studenţilor pasionaţi de Inteligenţa Artificială](https://www.ziaruldeiasi.ro/stiri/eveniment-dedicat-elevilor-si-studentilor-pasionati-de-inteligenta-artificiala--288109.html) in Ziarul de Iași (Romanian)
